@@ -58,4 +58,5 @@ public class MyView extends View {
 
         canvas.drawBitmap(BackBit, 10, 10, null);
     }
+
 }
